@@ -1,5 +1,7 @@
-#首先在#Ubuntu 安装mysql环境（离线压缩包方式)
+#在Ubuntu安装mysql环境（离线压缩包方式)
 <https://my.oschina.net/WWWW23223/blog/614608>
+#在OS X安装mysql环境
+<http://www.jianshu.com/p/fd3aae701db9>
 #开始的知识点
 ##基础
 ###登陆
